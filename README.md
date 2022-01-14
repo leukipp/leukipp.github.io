@@ -1,2 +1,1 @@
-# leukipp.github.io
-leukipp.com
+# [leukipp.com](leukipp.com)
